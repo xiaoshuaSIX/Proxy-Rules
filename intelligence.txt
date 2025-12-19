@@ -15,7 +15,4 @@ payload:
     - '+.chatgpt.com'
     # JetBrains AI
     - '+.ai.jetbrains.com'
-    - '+.llm.jetbrains.com'
-    - '+.services.jetbrains.com'
-    - '+.data.services.jetbrains.com'
-    - '+.cloud.jetbrains.com'
+    - '+.jetbrains.ai'
