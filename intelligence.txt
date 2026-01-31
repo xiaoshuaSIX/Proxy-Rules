@@ -1,5 +1,4 @@
 payload:
-    - '+.duckcoding.com'
     - '+.anthropic.com'
     - '+.auth0.com'
     - '+.challenges.cloudflare.com'
