@@ -1,2 +1,3 @@
+payload:
     - '+.gemini.com'
     - '+.gemini.google.com'
